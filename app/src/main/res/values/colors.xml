@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark_green_top">#0E1D14</color>
+    <color name="bg_dark_green_bottom">#172E1E</color>
+    <color name="card_dark_olive">#1D3725</color>
+    <color name="card_border">#2B4D35</color>
+    <color name="accent_dark_yellow">#D4A726</color>
+    <color name="accent_yellow_pressed">#B68D1B</color>
+    <color name="accent_green">#38A169</color>
+    <color name="text_primary">#F4F7EE</color>
+    <color name="text_secondary">#B5C7B8</color>
+    <color name="text_on_yellow">#132217</color>
+    <color name="error_coral">#F28B82</color>
+</resources>

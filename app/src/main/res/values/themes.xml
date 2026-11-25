@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ThreeP" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/bg_dark_green_top</item>
+        <item name="android:navigationBarColor">@color/bg_dark_green_bottom</item>
+        <item name="colorPrimary">@color/accent_dark_yellow</item>
+        <item name="colorSecondary">@color/accent_green</item>
+    </style>
+</resources>
